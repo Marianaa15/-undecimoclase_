@@ -6,7 +6,7 @@ Este proyecto fue desarrollado como parte de la clase de programación con Flet.
 - Ana Torres
 - Juan Pérez
 - Camila Moreno
-
+-Maria
 ## 🚀 Requisitos
 
 - Python 3.10 o superior
